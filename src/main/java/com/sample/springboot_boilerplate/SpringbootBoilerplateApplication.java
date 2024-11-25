@@ -17,8 +17,6 @@ public class SpringbootBoilerplateApplication {
         // ./gradlew build
         // ./gradlew bootRun
 
-        // Check the terminal for the output
-        // Once done checkout or switch to helloworld branch
     }
 
 }
